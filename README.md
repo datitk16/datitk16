@@ -27,7 +27,7 @@ HTML5, CSS3, Bootstrap, and Material Design for Bootstrap for creating responsiv
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
-#
+---
 
 ### 📊 Stats
 
