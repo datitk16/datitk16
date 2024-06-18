@@ -1,8 +1,11 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ DatNguyen
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Engineer (Frontend Developer/Aws)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm an frontend developer with 3+ years of experience in Web development which includes experience in Modern Front-End Web Development, Mobile App Development I also have experience with good knowledge of JavaScript ecosystem, FE Architecture (Angular).
+
+My expertise is angular, NgRx, and RxJS for building modern front-end applications
+HTML5, CSS3, Bootstrap, and Material Design for Bootstrap for creating responsive and user-friendly UIs.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
