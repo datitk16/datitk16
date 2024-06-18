@@ -1,4 +1,4 @@
-# 🏄‍♂️ DatNguyen
+# 🏄‍♂️ DAT NGUYEN
 
 **`Software Engineer (Frontend Developer/Aws)`**
 
