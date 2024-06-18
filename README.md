@@ -29,7 +29,7 @@ HTML5, CSS3, Bootstrap, and Material Design for Bootstrap for creating responsiv
 ---  
 ### 📊 Stats
 
-![Forrest's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=datitk16&show_icons=true&theme=gruvbox)) 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=datitk16&show_icons=true&theme=gruvbox)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
