@@ -7,7 +7,7 @@ I'm an frontend developer with 4+ years of experience in Web development which i
 My expertise is angular, NgRx, and RxJS for building modern front-end applications
 HTML5, CSS3, Bootstrap, and Material Design for Bootstrap for creating responsive and user-friendly UIs.
 
---
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
