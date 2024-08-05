@@ -3,10 +3,10 @@
 **`Software Engineer (Frontend Developer/Aws)`**
 
 • 5 years of experience as a Frontend Developer, I have demonstrated expertise in analyzing, designing, implementing, integrating, testing, and maintaining various enterprise applications. <br/>
-• Have experience using Agile methodology to develop software solutions.
-• Have a strong background in developing applications using Angular, JavaScript, Ionic, NativeScript, HTML/CSS, NestJs, SQL, NoSQL, and Restful API.
-• Experience working with Git, GitLab, npm, Jira, and Redmine.
-• With a focus on Angular Framework, I have gained significant experience in creating robust and scalable applications.
+• Have experience using Agile methodology to develop software solutions. <br/>
+• Have a strong background in developing applications using Angular, JavaScript, Ionic, NativeScript, HTML/CSS, NestJs, SQL, NoSQL, and Restful API. <br/>
+• Experience working with Git, GitLab, npm, Jira, and Redmine. <br/>
+• With a focus on Angular Framework, I have gained significant experience in creating robust and scalable applications. <br/>
 • Strong spoken and written English.
 
 ---
