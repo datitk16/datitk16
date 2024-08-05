@@ -2,10 +2,12 @@
 
 **`Software Engineer (Frontend Developer/Aws)`**
 
-I'm an frontend developer with 4+ years of experience in Web development which includes experience in Modern Front-End Web Development, Mobile App Development I also have experience with good knowledge of JavaScript ecosystem, FE Architecture (Angular).
-
-My expertise is angular, NgRx, and RxJS for building modern front-end applications
-HTML5, CSS3, Bootstrap, and Material Design for Bootstrap for creating responsive and user-friendly UIs.
+• 5 years of experience as a Frontend Developer, I have demonstrated expertise in analyzing, designing, implementing, integrating, testing, and maintaining various enterprise applications.
+• Have experience using Agile methodology to develop software solutions.
+• Have a strong background in developing applications using Angular, JavaScript, Ionic, NativeScript, HTML/CSS, NestJs, SQL, NoSQL, and Restful API.
+• Experience working with Git, GitLab, npm, Jira, and Redmine.
+• With a focus on Angular Framework, I have gained significant experience in creating robust and scalable applications.
+• Strong spoken and written English.
 
 ---
 ### 🧰 Languages and Tools
